@@ -24,11 +24,6 @@ Click the link and check the app: [Link](https://ms-finance-dashboard.vercel.app
 ![](./client/public/assets/dashboard.JPG)
 ![](./client/public/assets/predicstions.JPG)
 
-
-## 💾 Installation
-git clone https://github.com/marcinsuski/finance-dashboard.git
-
-
 ## /server: 
 `cd server`  
 `npm install`  
@@ -50,6 +45,5 @@ Sample data in /client/data/data.js for data structure reference.
 In case of any comments or advice, You can e-mail me or use Issues :)
 
 ## 🧙‍♂️ Author
-- GitHub - [Marcin Suski](https://github.com/marcinsuski)
-- LinkedIn - [marcin-suski](https://www.linkedin.com/in/marcin-suski/)
-- Porftolio - [marcinsuski.pl](https://marcinsuski.pl)
+- GitHub - [Shreshth Sudhir](https://github.com/Shreshth55)
+- LinkedIn - [Shreshth Sudhir](https://www.linkedin.com/in/shreshth-sudhir-330377237/)
